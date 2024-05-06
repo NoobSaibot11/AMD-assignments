@@ -13,8 +13,7 @@
 |7|Installing Git, First-Time Git Setup, Getting a Git Repository, Working Cth various git commands, Working Cth Local repository vs remote repository, Managing remote repository.| 05/03/2024|19/03/2024|
 |8|various local repository operations, Branching and merging operations, Resolving conflicts during merges, Managing access on repository managements.|19/03/2024 |26/03/2024 |
 |9|Installing Jenkins, Post-installation setup wizard, Unlocking Jenkins|26/03/2024|02/04/2024|
-|10|Customizing Jenkins with plugins, User
-management Customizing Jenkins with plugins, User management|02/04/2024|09/04/2024|
+|10|Customizing Jenkins with plugins, User management Customizing Jenkins with plugins, User management|02/04/2024|09/04/2024|
 |11|Authentication and Authorization, Deploying an application to a container using Jenkins.|09/04/2024|09/04/2024|
 |12|Outcome of the project as copyright / Paper / Patent|09/04/2024|09/04/2024|
 
