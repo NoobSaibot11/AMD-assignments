@@ -17,7 +17,7 @@
 |11|Authentication and Authorization, Deploying an application to a container using Jenkins.|09/04/2024|09/04/2024|
 |12|Outcome of the project as copyright / Paper / Patent|09/04/2024|09/04/2024|
 
--
+--
 <br>
 <br>
 <br>
